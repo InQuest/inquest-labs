@@ -1,3 +1,7 @@
+# DEPRECATED
+
+See: https://github.com/InQuest/python-inquestlabs
+
 # InQuestLabs
 
 A Pythonic interface for interacting with the InQuest Labs (labs.inquest.net) API.
